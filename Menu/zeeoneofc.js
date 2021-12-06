@@ -1,6 +1,7 @@
 exports.allmenu = (namabot, pushname, sender, isOwner, isPrem, cekvipp, getLimit, limitawal, limit, balance, getBalance, simbolnya, petik, prefix) => {
 return`Hello ${pushname}🤗 Saya ${namabot}
 
+👑 Nama Owner : *RenB0T*
 📛 Nama : ${pushname} 
 🆔 Nomor : @${sender.split("@")[0]} 
 📊 Status : ${isOwner?`Owner ⚔️`:isPrem?`Premium 🏅`:`Free User`} 
